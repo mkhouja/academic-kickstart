@@ -17,24 +17,22 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "University of the Balearic Islands, Spain"
+  year = 2013
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Master in Computer Science"
+  institution = "Ecole Nationale des Sciences Informatiques, University of La Manouba, Tunisia"
+  year = 2004
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Engineering degree in Computer Science"
+  institution = "Ecole Nationale des Sciences Informatiques, University of La Manouba, Tunisia"
+  year = 2003
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Mehdi Khouja received Phd degree in Computer Science in 2013 from the University of Balearic Islands (UIB), Spain. He also received the Engineering and M.Sc degree in Computer Science in 2003 and 2004, respectively from The National School of Computer Science (ENSI), Tunisia. Actually, he is an Assistant Professor at Institut Supérieur d'Informatique et de Multimédia de Gabès.
